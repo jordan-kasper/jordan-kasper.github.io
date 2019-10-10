@@ -1,9 +1,10 @@
 # Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
+  name: Eastern Oregon University 
+  dates: Date Range (eg. 2008 - 2012)
+  qualification: Bachelors of Science (BS), Computer Science
   quote: >
-    Short institution or course description (optional)
+    Students in the Computer Science program prepare for a future in software development to solve the complex problems faced by 21st Century America.
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    Students in computer science will learn to design and develop software systems for industrial, scientific, commercial and educational applications. They will acquire an understanding of programming, analysis, data structures, algorithms and operating systems. Graduates will be prepared to work in the private or public sector, or to proceed to advanced study.
+    
