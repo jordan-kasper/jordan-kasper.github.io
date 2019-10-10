@@ -2,7 +2,7 @@
 - layout: top-middle
   name: NBA Data Analysis
   # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: https://github.com/jordan-kasper/NBA-Data-Analysis
+  github: jordan-kasper/NBA-Data-Analysis
   quote: >
     This project was to take a look at the different stats for the Portland Trail Blazer basketball team and to see if it was possible to predict a winning game based off of other stats.
   description: | # this will include new lines to allow paragraphs
