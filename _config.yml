@@ -17,13 +17,18 @@ linkedin_username: jordan-kasper-204a7048
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/image.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - Links
-    - Images
+  My name is Jordan Kasper I am currently a Senior Support Engineer at ForgeRock and am looking to move into the Data Science/Engineering space.
+  #
+  I enjoy the work I do now but I have always felt like there was something missing. When I came across an article talking 
+  about careers in Data Science. I wasn’t quite sure what it all entailed but I had heard the buzz word thrown around 
+  a lot so I figured it was worth a read.
+  #
+  Well one article turned into about 15 and by the end I was pretty sure I knew what I wanted to do for the foreseeable 
+  future, I was hooked. What it came down to for me was the data. I love being able to see a bunch of information and 
+  try to make some sense of it and even better yet I get to develop and build systems to help with it!
+  #
+  I have a huge interest in how the data is stored and managed and what the systems look like that do this. I feel drawn 
+  to the engineering side as I still love to program and this hopefully will give a good balance of both worlds.
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
