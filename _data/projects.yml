@@ -1,9 +1,23 @@
 # Project template
 - layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  name: NBA Data Analysis
+  # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  github: https://github.com/jordan-kasper/NBA-Data-Analysis
   quote: >
-    Short overview of the project (optional)
+    This project was to take a look at the different stats for the Portland Trail Blazer basketball team and to see if it was possible to predict a winning game based off of other stats.
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    The purpose of this project is to see if we can predict if the Portland Trail Blazers will win a game based off of the box score stats. The goals of this project are to practice data analyis and working with data.
+
+**Methods Used**
+
+- Data Cleaning
+- Data Visualization
+- Feature Selection
+- Predictive Modeling
+
+**Technologies**
+
+- Python
+- Pandas, jupyter
+- Sklearn
+- numpy
