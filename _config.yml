@@ -15,7 +15,7 @@ linkedin_username: jordan-kasper-204a7048
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: jordan-kasper.github.io/images/image.jpg
+about_profile_image: https://github.com/jordan-kasper/jordan-kasper.github.io/blob/master/_data/images/image.jpg
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
