@@ -22,22 +22,21 @@
     - Sklearn
     - numpy
 
-  - layout: top-middle
-  name: Pig Game
-  # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: jordan-kasper/pig-game-js
-  quote: >
-    This project was used to showcase skills of pure JavaScript.  Showcase the key constepts of JS development.
-  description: | # this will include new lines to allow paragraphs
-    The purpose of this project is to create a game for two players where the object is to get to 100 points.  They can not roll a one or the ponts are lost for the round and the next players goes.  The user can bank their points from the round but as soon as they do its the next players turn.
+    name: Pig Game
+    # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+    github: jordan-kasper/pig-game-js
+    quote: >
+      This project was used to showcase skills of pure JavaScript.  Showcase the key constepts of JS development.
+    description: | # this will include new lines to allow paragraphs
+      The purpose of this project is to create a game for two players where the object is to get to 100 points.  They can not roll a one or the ponts are lost for the round and the next players goes.  The user can bank their points from the round but as soon as they do its the next players turn.
 
 
-    **Technologies**
+      **Technologies**
 
-    - HTML
-    - CSS
-    - JavaScript
+      - HTML
+      - CSS
+      - JavaScript
 
-    **Link**
-    jordan-kasper.github.io/pig-game-js
+      **Link**
+      jordan-kasper.github.io/pig-game-js
 
