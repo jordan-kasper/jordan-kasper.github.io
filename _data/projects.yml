@@ -23,9 +23,9 @@
     - numpy
 
 - layout: top-middle
-  name: Project name
-  link: Link to project (eg. jordan-kasper.github.io/pig-game-js)
-  github: Github page for project (eg. jordan-kasper/pig-game-js)
+  name: Pig Game 
+  link: jordan-kasper.github.io/pig-game-js
+  github: jordan-kasper/pig-game-js
   quote: >
     A JavaScript game built using basic JS, HTML and CSS.  Used to showcase basic knowlege of JS.
   description: | # this will include new lines to allow paragraphs
