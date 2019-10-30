@@ -8,20 +8,6 @@
   description: | # this will include new lines to allow paragraphs
     The purpose of this project is to see if we can predict if the Portland Trail Blazers will win a game based off of the box score stats. The goals of this project are to practice data analyis and working with data.
 
-    **Methods Used**
-
-    - Data Cleaning
-    - Data Visualization
-    - Feature Selection
-    - Predictive Modeling
-
-    **Technologies**
-
-    - Python
-    - Pandas, jupyter
-    - Sklearn
-    - numpy
-
 - layout: top-middle
   name: Pig Game 
   link: jordan-kasper.github.io/pig-game-js
