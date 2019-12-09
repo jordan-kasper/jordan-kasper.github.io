@@ -24,4 +24,4 @@
   quote: >
     A JavaScript dashboard built to manage ticket queues for agents
   description: | # this will include new lines to allow paragraphs
-    A dashboard that is built with Javascript and firebase to track ticket queues and manager ticket load for support agents.
+    This is a admin dashboard that is used to track user tickets tickets that have been inputed by agents for queue managment.  It also has a firebase backend used for item storage and user storage for login.  Test Login Username = demo Password = password.
