@@ -25,3 +25,11 @@
     A JavaScript dashboard built to manage ticket queues for agents
   description: | # this will include new lines to allow paragraphs
     This is a admin dashboard that is used to track user tickets tickets that have been inputed by agents for queue managment.  It also has a firebase backend used for item storage and user storage for login.  Test Login Username = demo Password = password.
+
+layout: top-middle
+  name: Vue Music App
+  github: https://github.com/jordan-kasper/vue-music-app
+  quote: >
+    A vue.js project that allows you to look up songs and add them to a playlist using the deezer API.
+  description: | # this will include new lines to allow paragraphs
+    This is a vue.js project that was created using vue.js, axios, and bootstrap 4 to allow users to search songs based off the deezer API.  It also allows you to add your songs to a playlist and look up the artist from searched songs.  
