@@ -20,7 +20,7 @@
 - layout: top-middle
   name: Queue Managment Dashboard (In Progress)
   link: https://queue-manager-dashboard.firebaseapp.com/
-  github: https://github.com/jordan-kasper/queue-manager-dashboard
+  github: jordan-kasper/queue-manager-dashboard
   quote: >
     A JavaScript dashboard built to manage ticket queues for agents
   description: | # this will include new lines to allow paragraphs
@@ -28,7 +28,7 @@
 
 - layout: top-middle
   name: Vue Music App
-  github: https://github.com/jordan-kasper/vue-music-app
+  github: jordan-kasper/vue-music-app
   quote: >
     A vue.js project that allows you to look up songs and add them to a playlist using the deezer API.
   description: | # this will include new lines to allow paragraphs
