@@ -18,18 +18,28 @@
     A simple game for two players where you try to get to 100 points first.  Each player rolls the dice and adds up the numbers they roll.  If a player rolls a 1 they lose their points for the round and its the next players turn.  They can hold their points and add to their score but their turn is over and its the next players turn.
 
 - layout: top-middle
-  name: Queue Managment Dashboard (In Progress)
-  link: https://queue-manager-dashboard.firebaseapp.com/
-  github: jordan-kasper/queue-manager-dashboard
+  name: Vue Task App
+  link: https://lucid-booth-fab2c9.netlify.com/
+  github: jordan-kasper/vue-task-app
   quote: >
-    A JavaScript dashboard built to manage ticket queues for agents
+    A vue.js project for tracking tasks and their priority
   description: | # this will include new lines to allow paragraphs
-    This is a admin dashboard that is used to track user tickets tickets that have been inputed by agents for queue managment.  It also has a firebase backend used for item storage and user storage for login.  Test Login Username = demo Password = password.
+    This is a vue.js project that was created with vue.js and vue-bootstrap.  It allows users to record tasks along with a priority that they need to be done.  Also allows for batch deletion along with saving data to local storage. 
 
 - layout: top-middle
   name: Vue Music App
+  link: https://unruffled-meninsky-2efddb.netlify.com/
   github: jordan-kasper/vue-music-app
   quote: >
     A vue.js project that allows you to look up songs and add them to a playlist using the deezer API.
   description: | # this will include new lines to allow paragraphs
     This is a vue.js project that was created using vue.js, axios, and bootstrap 4 to allow users to search songs based off the deezer API.  It also allows you to add your songs to a playlist and look up the artist from searched songs.
+
+- layout: top-middle
+  name: Vue Markdown App
+  link: https://quirky-ramanujan-1f3f86.netlify.com/
+  github: jordan-kasper/vue-markdown-app
+  quote: >
+    A vue.js project that allows users to test their markdown text in the browser.
+  description: | # this will include new lines to allow paragraphs
+    This is a vue.js project that was created using vue.js and bootstrap 4 to allow users to test their markdown in the browsers with a preview window.
