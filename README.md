@@ -1,4 +1,4 @@
-# Jordan Kasper Resume Site
+# Jordan Kasper Portfolio Site
 ## Intro
 This is my portfolio / resume site.  It displays my work history and projects along with a little bit about myself.
 
