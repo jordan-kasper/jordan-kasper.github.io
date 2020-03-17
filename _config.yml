@@ -6,7 +6,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 name: Jordan Kasper
 title: Senior Support Engineer
 email: jordan.kasper@gmail.com
-phone: Your phone number (optional)
+phone: +1 (360) 869-8278
 website: https://jordan-kasper.github.io/
 
 # Social links
@@ -17,17 +17,12 @@ linkedin_username: jordan-kasper-204a7048
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/image.jpg
 about_content: | # this will include new lines to allow paragraphs
-  My name is Jordan Kasper I am currently a Senior Support Engineer at ForgeRock and am looking to move into the Data Science/Engineering space. 
+  My name is Jordan Kasper I am currently a Senior Support Engineer at ForgeRock and am looking to move into the Data Science/UI Engineering space. 
   
-  I enjoy the work I do now but I have always felt like there was something missing. When I came across an article talking 
-  about careers in Data Science. I wasn’t quite sure what it all entailed but I had heard the buzz word thrown around 
-  a lot so I figured it was worth a read.
+  I enjoy the work I do now but I have always felt like there was something missing. I love working with frontend frameworks and am currently enjoying Vue.js. I enjoy developing how
+  users will interact with the data that is being presented and make it a fun and seemless experience.
   
-  Well one article turned into about 15 and by the end I was pretty sure I knew what I wanted to do for the foreseeable 
-  future, I was hooked. What it came down to for me was the data. I love being able to see a bunch of information and 
-  try to make some sense of it and even better yet I get to develop and build systems to help with it!
-  
-  I have a huge interest in how the data is stored and managed and what the systems look like that do this. I feel drawn 
+  I also have a huge interest in how the data is stored and managed and what the systems look like that do this. I feel drawn 
   to the engineering side as I still love to program and this hopefully will give a good balance of both worlds.
 
 # Projects Section
